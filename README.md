@@ -1,5 +1,6 @@
-# ignite-reactjs-componentizando
+# Componentizando o código do ReactJS
+<hr>
 
-* Componentizando uma aplicação
+* Componentização
 * Elevando estado
 * Repassando props
