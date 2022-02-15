@@ -1,5 +1,4 @@
 # Componentizando o código do ReactJS
-<hr>
 
 Aplicação com uma sidebar e um content separados em componentes distintos compartilhando o mesmo estado.
 
